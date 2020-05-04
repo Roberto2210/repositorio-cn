@@ -1,0 +1,23 @@
+{
+  "name": "repositorio-cintanegra",
+  "version": "1.0.0",
+  "description": "Ejercicio de cinta negra Dev.f",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roberto2210/repositorio-cintanegra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roberto2210/repositorio-cintanegra/issues"
+  },
+  "homepage": "https://github.com/Roberto2210/repositorio-cintanegra#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
